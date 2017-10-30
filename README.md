@@ -121,6 +121,10 @@ Helloworld programs in different languages
 * swift
 * tcl
 * tex
+* tex-auto
+* tex-manual
+* ti-visual
+* ti-code
 * ti-basic
 * unlambda
 * unrealscript
@@ -129,6 +133,7 @@ Helloworld programs in different languages
 * vhdl
 * vim
 * visual-basic
+* visual-studio
 * whitespace
 * x86
 * xpath2
