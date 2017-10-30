@@ -129,6 +129,7 @@ Helloworld programs in different languages
 * vhdl
 * vim
 * visual-basic
+* visual-studio
 * whitespace
 * x86
 * xpath2
